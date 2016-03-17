@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_demo",
+  "version": "1.0.0",
+  "description": "note of learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "demotest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norasszhu/nodejsDemo.git"
+  },
+  "keywords": [
+    "node.js",
+    "demo"
+  ],
+  "author": "sszhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/norasszhu/nodejsDemo/issues"
+  },
+  "homepage": "https://github.com/norasszhu/nodejsDemo#readme",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "server": "0.0.3"
+  }
+}
